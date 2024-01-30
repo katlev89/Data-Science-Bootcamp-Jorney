@@ -1,2 +1,2 @@
-# Data-Science-Bootcamp-Jorney
-My Data Science Jorney at Hyperion Dev Bootcamp!
+# Data-Science-Bootcamp-Journey
+My Data Science Journey at Hyperion Dev Bootcamp!
