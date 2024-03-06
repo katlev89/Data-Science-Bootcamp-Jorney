@@ -1,5 +1,9 @@
+# Interactive program about user's age:
+
+# Asking the user to input the age:
 age = int(input("Please enter your age: "))
 
+# Creating different answers depending on the user's input:
 if age < 13:
     print("You qualify for the kiddie discount.")
 
